@@ -1,0 +1,9 @@
+UWorld: 0xE762638
+GObjects: 0xE73BE40
+GNames: 0xE901300
+StaticFindObject: 0x38126C4
+
+Uworld: 48 89 05 ? ? ? ? 0F 28 D7
+GObjects: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
+GNames: 48 8D 05 ? ? ? ? 48 83 C4 28 C3 48 8D 0D ? ? ? ? E8 ? ? ? ? C6 05
+StaticFindObject: 48 89 5C 24 10 55 56 57 48 81 EC 40 04
